@@ -2,17 +2,47 @@
   <img alt="BE THE HERO" title="BE THE HERO" src=".github/logo.png" width="200px" />
 </h1>
 
-# front-end | semana OmniStack 11 - BE THE HERO
+<h4 align="center">
+ 🚀 Semana OmniStack 11.0
+</h4>
 
-Terceiro dia da semana omnistack 11.
-Desenvolvemos uma aplicação WEB BE THE HERO ReactJS, consumindo a API REST (back-end) desenvolvida no segundo dia.
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/remulocosta/frontend-omnistack11">
 
-Foram abordados nesse projeto conceito de.
-- [x]  Componentes
-- [x]  JSX
-- [x]  Propriedades
-- [x]  Estados
-- [x]  Imutabilidade
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/remulocosta/frontend-omnistack11">
+  
+  <a href="https://github.com/remulocosta/frontend-omnistack11/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/remulocosta/frontend-omnistack11">
+  </a>
+
+  <a href="https://github.com/remulocosta/frontend-omnistack11/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/remulocosta/frontend-omnistack11">
+  </a>
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+</p>
+
+<p align="center">
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#telas-da-aplicacao">Telas da aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
+</p>
+
+
+
+Aplicação Web BE THE HERO para cadastro de Ongs e seus casos, consumindo a API REST (back-end). 
+
+[Aplicação Back-end https://github.com/remulocosta/backend-OmniStack11](https://github.com/remulocosta/backend-OmniStack11)
+
+## :rocket: Tecnologias
+
+Este projeto usa estas tecnologias:
+
+- [React](https://reactjs.org)
+- [axios](https://github.com/axios/axios)
+- [React](https://reactjs.org)
+- [React](https://reactjs.org)
 
 ## Funcionalidades
 
@@ -29,16 +59,15 @@ Foram abordados nesse projeto conceito de.
 
 Página de login | Cadastro Ongs 
 --------- | ---------
-  <img alt="Login" title="Login" src=".github/01-login.png" width="500px" />|<img alt="Cadastro Ongs" title="Cadastro Ongs" src=".github/02-cadastro-ongs.png" width="500px" />
+<img alt="Login" title="Login" src=".github/01-login.png" width="500px" /> | <img alt="Cadastro Ongs" title="Cadastro Ongs" src=".github/02-cadastro-ongs.png" width="500px" />
 
 Cadastro de casos | Lista de casos da Ong 
 --------- | ---------
-<img alt="Cadastro de casos" title="Cadastro de casos" src=".github/03-cadastro-de-casos.png" width="500px" />|<img alt="Lista de casos da Ong" title="Lista de casos da Ong" src=".github/04-lista-de-casos.png" width="500px" />
+<img alt="Cadastro de casos" title="Cadastro de casos" src=".github/03-cadastro-de-casos.png" width="500px" /> | <img alt="Lista de casos da Ong" title="Lista de casos da Ong" src=".github/04-lista-de-casos.png" width="500px" />
 
 
-### Link do GitHub Back-end:
 
-[Aplicação Back-end https://github.com/remulocosta/backend-OmniStack11](https://github.com/remulocosta/backend-OmniStack11)
+
 
 --
 
@@ -48,7 +77,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `yarn start`
+### `yarn start` or `npm start`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -74,4 +103,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-# frontend-OmniStack11
+
+## :memo: License
+
+This project uses the MIT license. Read [LICENSE](LICENSE.md) for details.
+
+---
+
+Made with ♥ by Remulo Costa :wave:
