@@ -1,9 +1,9 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "description": "Front-end OmniStack 11",
+  "description": "Front-end | OmniStack 11 - Be The Hero",
   "author": "Remulo Costa <remulo.costa@gmail.com>",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -34,5 +34,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "eslint-plugin-import-helpers": "^1.0.2",
+    "prettier": "^2.0.2"
   }
 }
