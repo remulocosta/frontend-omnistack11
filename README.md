@@ -41,8 +41,6 @@ Este projeto usa estas tecnologias:
 
 - [React](https://reactjs.org)
 - [axios](https://github.com/axios/axios)
-- [React](https://reactjs.org)
-- [React](https://reactjs.org)
 
 ## Funcionalidades
 
