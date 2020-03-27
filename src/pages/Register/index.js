@@ -78,7 +78,7 @@ export default function Register() {
               onChange={(e) => setCity(e.target.value)}
             />
             <input
-              placeholder="uf"
+              placeholder="UF"
               value={uf}
               onChange={(e) => setUf(e.target.value)}
               style={{ width: 80 }}
