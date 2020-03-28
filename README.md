@@ -50,8 +50,6 @@ Este projeto usa estas tecnologias:
 - Cadastrar novos casos
 - Deletar casos
 - Listar casos específicos de uma ONG
-- Listar todos os casos
-- Entrar em contato com a ONG
 
 ## Telas da aplicação
 
