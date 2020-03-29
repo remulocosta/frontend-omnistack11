@@ -30,6 +30,10 @@
 </p>
 
 
+<p align="center">
+  <img alt="Frontend" src=".github/bethehero-desktop.gif" width="50%">
+</p>
+
 
 Aplicação Web BE THE HERO para cadastro de Ongs e seus casos, consumindo a API REST (back-end). 
 
@@ -50,20 +54,6 @@ Este projeto usa estas tecnologias:
 - Cadastrar novos casos
 - Deletar casos
 - Listar casos específicos de uma ONG
-
-## Telas da aplicação
-
-Página de login | Cadastro Ongs 
---------- | ---------
-<img alt="Login" title="Login" src=".github/01-login.png" width="500px" /> | <img alt="Cadastro Ongs" title="Cadastro Ongs" src=".github/02-cadastro-ongs.png" width="500px" />
-
-Cadastro de casos | Lista de casos da Ong 
---------- | ---------
-<img alt="Cadastro de casos" title="Cadastro de casos" src=".github/03-cadastro-de-casos.png" width="500px" /> | <img alt="Lista de casos da Ong" title="Lista de casos da Ong" src=".github/04-lista-de-casos.png" width="500px" />
-
-
-
-
 
 --
 
